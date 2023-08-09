@@ -92,6 +92,6 @@ An easy way to get a license for a commercial project is to book a *rapid protot
 
 ## Want to Learn More About Bluccino?
 
-Definitely a great idea! Let's move on to the [Bluccino Tutorials](https://github.com/bluccino/tutorial/wiki/Bluccino-Tutorials) in the [Bluccino Wiki](https://github.com/bluccino/tutorial/wiki) pages!
+Definitely a great idea! Let's move on to the [Bluccino Tutorials](https://github.com/bluccino/bluccino-tutorial/wiki/Bluccino-Tutorials) in the [Bluccino Wiki](https://github.com/bluccino/bluccino-tutorial/wiki) pages!
 
 
